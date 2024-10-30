@@ -23,5 +23,4 @@
 - Name: Naif Al-Qubalee
 - major: Computer science
 - Level: 3 & 4
-- Projects: HTML & CSS Pages
 - Thanks.
