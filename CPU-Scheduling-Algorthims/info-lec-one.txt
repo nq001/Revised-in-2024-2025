@@ -1,0 +1,9 @@
+ -- Algorthims in CPU shcudulaing
+
+        - FCFS
+        - SJF
+        - RR
+    
+    -- FCFS:
+            - burst time of processes
+            - turn time 
